@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">heroApp</string>
+    <string name="hero1"> Alexis Mac Alllister </string>
+    <string name="description1"> Scoring goal to real madrid in wednesday</string>
+    <string name="hero2"> Jay idsez </string>
+    <string name="description2">captain younger from indonesia player </string>
+    <string name="hero3"> Lautaro Martinez </string>
+    <string name="description3"> Player inter milan and national team argentina</string>
+    <string name="hero4"> Mikel Merino </string>
+    <string name="description4"> Scoring goal to spain in semi final against German</string>
+    <string name="hero5"> Pele </string>
+    <string name="description5"> football player first winning 3 wrold cup</string>
+    <string name="hero6"> Cristiano Ronaldo</string>
+    <string name="description6"> Cristiano hattrick to atletico madrid and comeback</string>
+    <string name="hero7">Sergio Ramos</string>
+    <string name="description7">Scoring goal in 94 minute at champion league final</string>
+</resources>
